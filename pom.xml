@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.hello</groupId>
 	<artifactId>hello-demo</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hello-demo</name>
 	<description>Demo project for Spring Boot</description>
